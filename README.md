@@ -7,7 +7,7 @@
 
 📫 How to reach me **mathis.dousse@outlook.fr**
 
-❤ Passionnate about UI/UX and machine learning in particular the analysis of survival data
+❤ Outside web dev, passionnate about UI/UX and machine learning, in particular survival data analysis
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
