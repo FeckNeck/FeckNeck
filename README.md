@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning **All the skills listed bellow**
 
-👨‍💻 All of my projects are available at [here](https://github.com/FeckNeck?tab=repositories)
+👨‍💻 All of my projects are available [here](https://github.com/FeckNeck?tab=repositories)
 
 📫 How to reach me **mathis.dousse@outlook.fr**
 
