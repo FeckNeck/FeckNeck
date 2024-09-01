@@ -38,10 +38,28 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=feckneck&show_icons=true&locale=en" alt="feckneck" />
-</p>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=FeckNeck&show_icons=true&locale=en&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=FeckNeck&show_icons=true&locale=en"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=190 src="https://github-readme-stats.vercel.app/api?username=FeckNeck&show_icons=true&locale=en" />
+  </picture>
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feckneck&show_icons=true&locale=en&layout=compact" alt="feckneck" />
+   <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=FeckNeck&show_icons=true&locale=en&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=FeckNeck&show_icons=true&locale=en&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs?username=FeckNeck&show_icons=true&locale=en&layout=compact" />
+  </picture>
 </p>
 
