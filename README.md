@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FeckNeck</h1>
-<h3 align="center">Full-Stack engineer with expertise in AI</h3>
+<h3 align="center">Graduate Full-Stack Engineer with expertise in AI</h3>
 
 🌱 I’m currently learning **All the skills listed bellow**
 
